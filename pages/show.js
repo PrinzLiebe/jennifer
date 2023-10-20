@@ -13,17 +13,17 @@ let showPresent = (ev) => {
   p1.id = "paragOne";
   p1.className = "parag";
   p1.innerText =
-    "Feliz Aniversário Jenni! Deus";
+    "Feliz Aniversário Jenni! Deus abençoe esse dia especial, que seja um dia maravilhoso";
 
   p2.id = "paragTwo";
   p2.className = "parag";
   p2.innerText =
-    "Obrigado por ser uma grande amiga desde os tempos de escola, você é uma pessoa muito especial para mim e espero poder comemorar muitos outros aniversários com você";
+    "Muito obrigado por sempre ser uma ótima amiga, saiba que você é uma pessoa muito especial para mim, sempre que precisar pode contar comigo, espero poder comemorar muitos outros aniversários com você";
 
   p3.id = "paragThree";
   p3.className = "parag";
   p3.innerHTML =
-    "Desejo tudo de bom para você e que possamos compartilhar ainda grandes momentos e conquistas!&#x1F496";
+    "Desejo todo sucesso e felicidades para você e que possamos compartilhar ainda muitos momentos ótimos!&#x1F496";
 
   div.id = "paragContainer";
 
